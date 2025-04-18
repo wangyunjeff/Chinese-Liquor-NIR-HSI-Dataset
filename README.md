@@ -28,7 +28,7 @@ This dataset is intended for research on Chinese liquor classification and analy
 
 If you use this dataset in your research, please cite our paper:
 
-[Citation details to be added after publication]
+[[Citation details to be added after publication]](https://ieeexplore.ieee.org/document/10888552)
 
 ## License
 
